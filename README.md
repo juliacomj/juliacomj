@@ -4,8 +4,6 @@
 [![GMAIL](https://img.shields.io/badge/-Gmail-Red)](mailto:julialcantara.ra@gmail.com?Subject=Oi)
 
 - Software Developer at Microsoft. 💻
-- Currently learning React. 📘
 - Passionate about web technologies and mathematics. 🖥 🧮
-- I also aim to learn mobile development.📱
 - Gamer and dog lover. 🎮 🐶
 
